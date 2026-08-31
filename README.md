@@ -69,6 +69,12 @@ This server is a **gate, not a compliance guarantee**. Specifically:
 
 Use it as one layer in a defense-in-depth strategy — not as a substitute for professional compliance review.
 
-## License
+## License & Attribution
 
-MIT — Copyright 2026 Jean Machuca
+MIT — Copyright (c) 2026 Jean Machuca (see [LICENSE](LICENSE)).
+
+This server implements concepts from the book **_Vibe Leading The AI: The Corporate Race
+Against Machines_** by Jean Machuca (ISBN 9798252505008, © 2026 Jean Machuca). The book
+is copyrighted commercial material; this repository does not republish its text. Buy the
+book at [https://vibeleading.org](https://vibeleading.org) or
+[https://a.co/d/04L5YatK](https://a.co/d/04L5YatK). See [NOTICE](NOTICE).
