@@ -20,7 +20,16 @@ Or run on demand with `npx`:
 
 ```bash
 npx mcp-privacy-shield
+# or run straight from the GitHub source (builds automatically):
+npx -y github:VibeLeading/mcp-privacy-shield
 ```
+
+## Requirements
+
+- **Node.js >= 22** — required. The server is ESM-only and uses modern Node
+  built-ins. On older Node versions the process fails to start, which MCP
+  clients report generically as "connection closed".
+- No other runtime dependencies — everything ships with the package.
 
 ## Client configuration
 
