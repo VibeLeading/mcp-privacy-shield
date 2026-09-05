@@ -33,5 +33,13 @@
     "vibe-leading",
     "ai"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VibeLeading/mcp-privacy-shield.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VibeLeading/mcp-privacy-shield/issues"
+  },
+  "homepage": "https://github.com/VibeLeading/mcp-privacy-shield#readme"
 }
